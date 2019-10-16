@@ -40312,7 +40312,7 @@ instanceInterpolations = {
 "35616FF6-3D9C-499B-B113-AC9E0DB5842A" = 0.33333;
 "3B040282-CF47-4846-BCAF-7BFF90FB63BC" = 0.66667;
 };
-name = "Extra Light";
+name = ExtraLight;
 weightClass = ExtraLight;
 },
 {
@@ -40502,7 +40502,7 @@ instanceInterpolations = {
 "35616FF6-3D9C-499B-B113-AC9E0DB5842A" = 0.6;
 "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B" = 0.4;
 };
-name = "Semi Bold";
+name = SemiBold;
 weightClass = SemiBold;
 },
 {
@@ -40600,7 +40600,7 @@ instanceInterpolations = {
 "35616FF6-3D9C-499B-B113-AC9E0DB5842A" = 0.2;
 "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B" = 0.8;
 };
-name = "Extra Bold";
+name = ExtraBold;
 weightClass = ExtraBold;
 },
 {

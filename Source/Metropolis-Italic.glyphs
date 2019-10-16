@@ -27912,7 +27912,7 @@ instanceInterpolations = {
 };
 isItalic = 1;
 linkStyle = "Extra Light";
-name = "Extra Light Italic";
+name = "ExtraLight Italic";
 weightClass = ExtraLight;
 },
 {
@@ -28114,7 +28114,7 @@ instanceInterpolations = {
 };
 isItalic = 1;
 linkStyle = "Semi Bold";
-name = "Semi Bold Italic";
+name = "SemiBold Italic";
 weightClass = SemiBold;
 },
 {
@@ -28217,7 +28217,7 @@ instanceInterpolations = {
 };
 isItalic = 1;
 linkStyle = "Extra Bold";
-name = "Extra Bold Italic";
+name = "ExtraBold Italic";
 weightClass = ExtraBold;
 },
 {
