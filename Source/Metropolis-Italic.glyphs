@@ -7,7 +7,7 @@ DisplayStrings = (
 $
 );
 copyright = "Copyright © 2016-2018 by Chris Simpson";
-date = "2016-07-29 23:55:50 +0000";
+date = "2019-10-16 21:18:04 +0000";
 designer = "Chris Simpson";
 designerURL = "https://github.com/chrismsimpson/Metropolis";
 familyName = Metropolis;
@@ -28344,5 +28344,5 @@ tH = "152";
 };
 };
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }
