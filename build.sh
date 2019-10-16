@@ -8,14 +8,14 @@ do
   fontmake -g $src -o ttf -i --output-dir $OUTPUT_DIR/
 done
 
-#for font in $OUTPUT_DIR/*.ttf
-#do
-#  gftools fix-nonhinting $font $font
-#  gftools fix-dsig $font --autofix
-#done
+for font in $OUTPUT_DIR/*.ttf
+do
+  gftools fix-nonhinting $font $font
+  gftools fix-dsig $font --autofix
+done
 
 # Cleanup gftools mess:
-#rm $OUTPUT_DIR/*-backup-fonttools-prep-gasp.ttf
+rm $OUTPUT_DIR/*-backup-fonttools-prep-gasp.ttf
 
 # cp METADATA.pb $OUTPUT_DIR
 cp DESCRIPTION.*.html $OUTPUT_DIR
