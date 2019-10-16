@@ -6,6 +6,16 @@ DisplayStrings = (
 $
 );
 copyright = "Copyright 2019 The Metropolis Project Authors (https://github.com/chrismsimpson/Metropolis)";
+customParameters = (
+{
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+}
+);
 date = "2019-10-16 21:17:28 +0000";
 designer = "Chris Simpson";
 designerURL = "https://github.com/chrismsimpson/Metropolis";
