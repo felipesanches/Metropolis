@@ -28013,7 +28013,7 @@ instanceInterpolations = {
 };
 isItalic = 1;
 linkStyle = Regular;
-name = "Regular Italic";
+name = Italic;
 },
 {
 customParameters = (
