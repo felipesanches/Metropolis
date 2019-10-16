@@ -6,7 +6,7 @@ DisplayStrings = (
 "¢",
 $
 );
-copyright = "Copyright © 2016-2018 by Chris Simpson";
+copyright = "Copyright 2019 The Metropolis Project Authors (https://github.com/chrismsimpson/Metropolis)";
 date = "2019-10-16 21:18:04 +0000";
 designer = "Chris Simpson";
 designerURL = "https://github.com/chrismsimpson/Metropolis";
