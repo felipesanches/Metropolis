@@ -40258,6 +40258,10 @@ value = 795;
 {
 name = winDescent;
 value = 205;
+},
+{
+name = weightClass;
+value = 250;
 }
 );
 interpolationWidth = 5;
@@ -40304,6 +40308,10 @@ value = 795;
 {
 name = winDescent;
 value = 205;
+},
+{
+name = weightClass;
+value = 275;
 }
 );
 interpolationWeight = 200;
