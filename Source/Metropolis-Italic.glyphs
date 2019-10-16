@@ -1,8 +1,10 @@
 {
-.appVersion = "1192";
+.appVersion = "1230";
 DisplayStrings = (
 "AÁ/Abreve ÂÄÀ/Amacron/Aogonek ÅÃÆBC/Cacute/Ccaron ÇDÐ/Dcaron/Dcroat EÉ/Ecaron ÊË/Edotaccent/Edotbelow È/Emacron/Eogonek/Etilde FG/Gbreve/Gcommaaccent HIÍÎÏ/Idotaccent Ì/Imacron/Iogonek JK/Kcommaaccent L/Lacute/Lcaron/Lslash MN/Nacute/Ncaron/Ncommaaccent ÑOÓÔÖÒ/Ohungarumlaut/Omacron ØÕ/OE PÞQR/Racute/Rcaron/Rcommaaccent S/Sacute/Scaron/Scedilla T/Tcaron/Tcedilla UÚÛÜÙ/Uhungarumlaut/Umacron/Uogonek/Uring VW/Wacute/Wcircumflex/Wdieresis/Wgrave XYÝ/Ycircumflex/Ydieresis/Ygrave Z/Zacute/Zcaron/Zdotaccent aá/abreve âäà/amacron/aogonek åãæbc/cacute/ccaron çdð/dcaron/dcroat eé/ecaron êë/edotaccent/edotbelow è/emacron/eogonek/etilde fg/gbreve/gcommaaccent hi/idotless íîïì/imacron/iogonek j/jdotless k/kcommaaccent l/lacute/lcaron/lslash mn/nacute/ncaron/ncommaaccent ñoóôöò/ohungarumlaut/omacron øõ/oe pþqr/racute/rcaron/rcommaaccent s/sacute/scaron/scedilla ßt/tcaron/tcedilla uúûüù/uhungarumlaut/umacron/uogonek/uring vw/wacute/wcircumflex/wdieresis/wgrave xyý/ycircumflex/ydieresis/ygrave z/zacute/zcaron/zdotaccent/a.alt/aacute.alt/abreve.alt/acircumflex.alt/adieresis.alt/agrave.alt/amacron.alt/aogonek.alt/aring.alt/atilde.alt 0123456789.,:;/ellipsis !¡?¿·/bullet *#///backslash (){}[]-/endash/emdash _/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright «»/guilsinglleft/guilsinglright \"'/emspace/enspace/fourperemspace/narrownbspace/sixperemspace  /threeperemspace ¢$/euro £¥+/minus ×÷=><~^%/perthousand @&¶©®/trademark |/dotaccentcomb/commaaccentcomb ´/breve/caron ¸/circumflex ¨/dotaccent `/hungarumlaut ¯/ogonek/ring/tilde",
-"AÁ/Abreve ÂÄÀ/Amacron/Aogonek ÅÃÆ"
+"AÁ/Abreve ÂÄÀ/Amacron/Aogonek ÅÃÆ",
+"¢",
+$
 );
 copyright = "Copyright © 2016-2018 by Chris Simpson";
 date = "2016-07-29 23:55:50 +0000";
@@ -20522,7 +20524,7 @@ unicode = 2004;
 {
 color = 1;
 glyphname = cent;
-lastChange = "2018-09-01 04:10:29 +0000";
+lastChange = "2019-10-16 20:35:26 +0000";
 layers = (
 {
 components = (
@@ -20650,6 +20652,38 @@ nodes = (
 }
 );
 width = 608;
+},
+{
+associatedMasterId = "84328D8E-4D54-44EF-AF5C-0364B1C28646";
+components = (
+{
+name = c;
+transform = "{1, 0, 0, 1, 53, 0}";
+}
+);
+layerId = "5A44FC45-C1BC-41C6-9BC4-1288497EAD74";
+name = "Light Italic[700]";
+paths = (
+{
+closed = 1;
+nodes = (
+"276 11 LINE",
+"258 -74 LINE",
+"294 -74 LINE",
+"312 11 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"417 515 LINE",
+"432 589 LINE",
+"396 589 LINE",
+"380 513 LINE"
+);
+}
+);
+width = 601;
 }
 );
 unicode = 00A2;
@@ -20657,7 +20691,7 @@ unicode = 00A2;
 {
 color = 1;
 glyphname = dollar;
-lastChange = "2018-09-01 04:09:18 +0000";
+lastChange = "2019-10-16 20:35:56 +0000";
 layers = (
 {
 components = (
@@ -20785,6 +20819,38 @@ nodes = (
 }
 );
 width = 702;
+},
+{
+associatedMasterId = "84328D8E-4D54-44EF-AF5C-0364B1C28646";
+components = (
+{
+name = S;
+transform = "{1, 0, 0, 1, -3, 0}";
+}
+);
+layerId = "C67A566B-6B31-4162-8252-1F474E3FBD9C";
+name = "Light Italic[700]";
+paths = (
+{
+closed = 1;
+nodes = (
+"252 14 LINE",
+"234 -74 LINE",
+"270 -74 LINE",
+"288 12 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"425 673 LINE",
+"443 759 LINE",
+"407 759 LINE",
+"390 675 LINE"
+);
+}
+);
+width = 653;
 }
 );
 unicode = 0024;
